@@ -1,0 +1,3 @@
+username = superadmin
+password = SUPER4DM1N!!!
+email = superadmin@littlelemon.com
