@@ -1,6 +1,16 @@
-# LittleLemon
+users created:
 
-My work on <a href="https://www.coursera.org/professional-certificates/meta-back-end-developer">Meta Back-End Developer Professional Certificate</a><br>
+username = superadmin
+password = SUPER4dm1n!!!
+email = superadmin@littlelemon.com
+
+johndoe
+JOHNd03!!!
+johndoe@littlelemon.com
+
+syoon 
+SARAHy00n!!! 
+sarahyoon@littlelemon.com
 
 endpoints: 
 home        : http://127.0.0.1:8000
