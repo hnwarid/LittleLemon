@@ -16,4 +16,5 @@ class Menu(models.Model):
     inventory = models.IntegerField(default=5)
 
     def __str__(self):
-        return f"{self.title} : ${self.price} now {self.inventory} left in stock"
+        # return f"{self.title} : ${self.price} now {self.inventory} left in stock"
+        return f'{self.title} : {str(self.price)}'
