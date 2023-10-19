@@ -29,5 +29,8 @@ urlpatterns = [
     path('restaurant/booking/', include(router.urls)), # this better be moved to app level 
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
     # path('users/', include(router.urls)) 
+    path('auth/', include('djoser.urls')),
+    path('auth/', include('djoser.urls.authtoken')),
+
 
 ]
